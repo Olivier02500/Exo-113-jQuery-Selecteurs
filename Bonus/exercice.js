@@ -1,1 +1,1 @@
-$("selecteur").hide();
+$("table th td:first-child").siblings('even').hide();
